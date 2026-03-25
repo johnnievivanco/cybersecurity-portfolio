@@ -39,3 +39,13 @@ Failure to address these risks could lead to data breaches, financial loss, repu
 
 ## Key Takeaways
 This project demonstrates the importance of identifying, prioritizing, and communicating cybersecurity risks in a way that aligns with business objectives and supports executive decision-making.
+
+## Executive Summary
+This assessment identifies key cybersecurity risks that could impact business operations, including unauthorized access, data breaches, and increased attack surface. Addressing these risks through stronger authentication, user awareness training, and vulnerability management will significantly improve the organization's security posture.
+
+## Key Skills Demonstrated
+- Risk assessment  
+- Threat identification  
+- Business impact analysis  
+- Security documentation  
+- Executive communication  
