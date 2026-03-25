@@ -1,43 +1,25 @@
-# cybersecurity-portfolio
 
-# Security Risk Assessment Report
+# Johnnie Vivanco – Cybersecurity Portfolio
+Cybersecurity Student | Security Operations | Risk & Threat Analysis
 
 ## Overview
-This project simulates a cybersecurity risk assessment for a mid-sized organization, identifying potential threats, vulnerabilities, and their business impact.
+I am a final-year Cybersecurity student at Western Governors University with hands-on experience in security operations, threat analysis, and vulnerability assessment.
+
+My interest in cybersecurity is driven by an entrepreneurial mindset developed through early involvement in a family real estate business, where I supported IT systems, marketing strategies, and operational problem-solving. I later expanded this experience by launching a small Amazon white-label business, focusing on identifying problems and delivering practical solutions.
+
+## Skills
+- Threat Analysis & Log Monitoring  
+- Incident Response Fundamentals  
+- Vulnerability Assessment  
+- Network Fundamentals (TCP/IP, DNS, HTTP/HTTPS)  
+- Security Documentation & Risk Awareness  
+
+## Projects
+- [Splunk Log Analysis](./splunk-log-analysis)  
+- [Phishing Analysis](./phishing-analysis)  
+- [Incident Response Playbook](./incident-response-playbook)  
+- [Nmap Vulnerability Scan](./nmap-vulnerability-scan)  
+- [Security Risk Assessment Report](./security-risk-assessment)
 
 ## Objective
-To analyze common security risks and present findings in a format suitable for executive leadership, focusing on risk prioritization and business impact.
-
-## Scope
-The assessment focuses on:
-- User authentication systems  
-- Network exposure  
-- Phishing risks  
-- Vulnerability management practices  
-
-## Risk Findings
-
-### 1. Weak Password Policies
-**Risk Level:** High  
-**Impact:** Increased likelihood of unauthorized access through brute-force or credential stuffing attacks.
-
-### 2. Lack of Employee Phishing Awareness
-**Risk Level:** High  
-**Impact:** Potential for credential compromise and data breaches through social engineering attacks.
-
-### 3. Open Network Ports
-**Risk Level:** Medium  
-**Impact:** Increased attack surface for potential exploitation.
-
-## Recommendations
-
-- Enforce strong password policies and multi-factor authentication (MFA)  
-- Implement employee cybersecurity awareness training  
-- Regularly scan and close unnecessary open ports  
-- Establish a vulnerability management program  
-
-## Business Impact
-Failure to address these risks could lead to data breaches, financial loss, reputational damage, and operational disruptions.
-
-## Key Takeaways
-This project demonstrates the importance of identifying, prioritizing, and communicating cybersecurity risks in a way that aligns with business objectives and supports executive decision-making.
+I am seeking an opportunity to contribute to a cybersecurity team while gaining exposure to leadership, risk management, and strategic decision-making.
