@@ -11,7 +11,19 @@ The assessment focuses on:
 - User authentication systems  
 - Network exposure  
 - Phishing risks  
-- Vulnerability management practices  
+- Vulnerability management practices
+
+### Assessment Evidence
+
+This assessment is supported by technical findings obtained from a vulnerability scan conducted using Nmap in a controlled lab environment.
+
+The scan identified several open ports and active services that contribute to the system’s attack surface:
+
+- Port 445 (SMB) – File sharing service commonly targeted for lateral movement and ransomware attacks  
+- Port 1434 (Microsoft SQL Server) – Database service that could expose sensitive data if misconfigured  
+- Port 135 (RPC) – Service that may allow system enumeration  
+
+These technical findings were used to inform the risk analysis and prioritization in this report.  
 
 ## Risk Findings
 
@@ -25,7 +37,15 @@ The assessment focuses on:
 
 ### 3. Open Network Ports
 **Risk Level:** Medium  
-**Impact:** Increased attack surface for potential exploitation.
+**Impact:** Increased attack surface, potentially allowing attackers to identify and exploit exposed services.
+
+### Risk Analysis Summary
+
+| Risk | Likelihood | Impact | Priority |
+|------|-----------|--------|----------|
+| Weak Password Policies | High | High | Critical |
+| Phishing Susceptibility | High | High | Critical |
+| Open Network Ports | Medium | High | High |
 
 ## Recommendations
 
