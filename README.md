@@ -35,5 +35,13 @@ My interest in cybersecurity is driven by an entrepreneurial mindset developed t
 - [Security Risk Assessment Report](./security-risk-assessment)
   Evaluated security risks and provided prioritized recommendations based on business impact.
 
+  ## Proof of Work
+- Identified open ports and exposed services using Nmap scanning (SMB, SQL Server, RPC)
+- Analyzed phishing emails to detect spoofed domains, malicious links, and social engineering tactics
+- Simulated a full incident response workflow including detection, containment, eradication, and recovery
+- Investigated log data to identify suspicious activity and potential brute-force attempts using Splunk
+- Evaluated security risks and prioritized mitigation strategies based on technical findings and business impact
+- Conducted vulnerability scan identifying multiple active services and potential attack vectors on a local system
+
 ## Objective
 I am seeking an opportunity to contribute to a cybersecurity team while gaining exposure to leadership, risk management, and strategic decision-making.
